@@ -58,7 +58,7 @@ See the `/docs` folder for:
 - Style Guidelines
 
 ---
-
+ 
 ## License
 
 This project is licensed under the MIT License.  
