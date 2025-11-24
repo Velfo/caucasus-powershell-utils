@@ -26,7 +26,7 @@ function New-DirAndFiles {
     }
 }
 
-# 01-architecture.
+# 01-architecture
 New-DirAndFiles "01-architecture" @(
     "overview-of-metrics-collectors.md",
     "prometheus-architecture.md",
